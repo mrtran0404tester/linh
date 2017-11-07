@@ -1,0 +1,22 @@
+{
+"IsFake":false,
+"BannerID":"ca-app-pub-2307368916067173/2400374890",
+"InterstitialID":"ca-app-pub-2307368916067173/6853312142",
+"VideoRewardID":"ca-app-pub-2307368916067173/7208535363",
+"Version":{
+"Name":"1.0.0",
+"Title":"Do you want to update the latest version?",
+"Content":"- Add tutorial",
+"Link":"httt://"
+},
+"MoreGames":[
+{
+"GameName":"Game 1",
+"LinkIcon":"Link Icon 1",
+"LinkGame":"Link Game 1"
+}
+]
+}
+
+
+
