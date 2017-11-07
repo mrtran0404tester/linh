@@ -1,0 +1,19 @@
+{
+"IsFake":false,
+"BannerID":"ca-app-pub-1667805177474426/6381349481",
+"InterstitialID":"ca-app-pub-1667805177474426/1129022800",
+"VideoRewardID":"ca-app-pub-1667805177474426/7577568006",
+"Version":{
+"Name":"1.0.0",
+"Title":"Do you want to update the latest version?",
+"Content":"- Add tutorial",
+"Link":"market://details?id=roaddraw.hillclimb.racing"
+},
+"MoreGames":[
+{
+"GameName":"Game 1",
+"LinkIcon":"Link Icon 1",
+"LinkGame":"Link Game 1"
+}
+]
+}
