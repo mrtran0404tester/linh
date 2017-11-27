@@ -5,7 +5,7 @@
 "VideoRewardID":"ca-app-pub-2307368916067173/7208535363",
 "Version":{
 "Name":"1.0.4",
-"Title":"Do you want to update the latest version?",
+"Title":"Do you want to update the new version?",
 "Content":"- Fixed Ads",
 "Link":"https://itunes.apple.com/us/app/road-draw-hill-climb-race/id1310284695?mt=8"
 },
